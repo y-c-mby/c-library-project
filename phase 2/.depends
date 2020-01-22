@@ -1,2 +1,0 @@
-books.o: books.c books.h
-local_library.o: local_library.c local_library.h books.h
